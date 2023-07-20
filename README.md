@@ -14,7 +14,7 @@ Thanks for checking out this front-end coding challenge.
 
 
 ## Deploying your project
-- [GitHub Pages](https://pages.github.com/)
+- [GitHub Pages](https://vaibhavvatsbhartiya.github.io/QR-code-component/)
 
 
 ## Got feedback for us?
