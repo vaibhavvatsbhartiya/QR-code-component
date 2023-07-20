@@ -6,14 +6,13 @@ To design-
 
 Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 ## The challenge
 1. I just forget to link style sheet to HTML file and for first 15mins just change css file and see no changes
 2. giving desing to 'div' is confusing currently. because some lines i just mix up div's
 
 
-## Deploying your project
+## Deploying my project
 - [GitHub Pages](https://vaibhavvatsbhartiya.github.io/QR-code-component/)
 
 
