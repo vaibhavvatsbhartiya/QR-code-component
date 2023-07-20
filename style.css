@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    background: hsl(212, 45%, 89%);
+}
+
+.card{
+    width: 280px;
+    height: 400px;
+    position: relative;
+    background: hsl(0, 0%, 100%);
+    margin: 30px 10px;
+    padding: 20px 15px;
+    display: flex;
+    flex-direction: column;
+    transition: 0.3s ease-in-out;
+    margin-top: 5%;
+    align-items: center;
+    justify-items: center;
+    border-radius: 5%;
+    text-align: center;
+}
+
+
+.card .imgbox{
+    position: relative;
+    width: 260px;
+    height: 260px;
+}
+
+
+.card .imgbox img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.imgbox:hover img{
+    transform: scale(1.1);
+}
