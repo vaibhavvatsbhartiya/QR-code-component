@@ -1,5 +1,5 @@
 # Frontend Mentor - QR code component
-
+TO design-
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
@@ -20,4 +20,5 @@ Thanks for checking out this front-end coding challenge.
 ## Got feedback for us?
 I love receiving feedback! I'm always looking to improve our myself. So if you have anything you'd like to mention then feel free to comment.
 
+My Design-
 ![image](https://github.com/vaibhavvatsbhartiya/QR-code-component/assets/76244950/e4bec94d-51c6-44c3-9592-772b1ae9d235)
